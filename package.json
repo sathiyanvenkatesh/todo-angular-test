@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "description": "Emirates ToDO Application Technical Test PlayGround",
-  "repository": "https://github.com/angular/angular-seed",
+  "repository": "https://github.com/sathiyanvenkatesh/todo-angular-test",
   "license": "MIT",
   "devDependencies": {
     "bower": "^1.7.7",
