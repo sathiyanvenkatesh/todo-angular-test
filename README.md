@@ -17,14 +17,14 @@ and its package manager (npm) installed. You can get them from [here][node].
 Clone the `Emirates ToDo Test App` repository using git:
 
 ```
-git clone https://github.com/angular/Emirates ToDo Test App.git
-cd Emirates ToDo Test App
+git clone https://github.com/sathiyanvenkatesh/todo-angular-test.git
+cd todo-angular-test
 ```
 
 If you just want to start a new project without the `Emirates ToDo Test App` commit history then you can do:
 
 ```
-git clone --depth=1 https://github.com/angular/Emirates ToDo Test App.git <your-project-name>
+git clone --depth=1 https://github.com/sathiyanvenkatesh/todo-angular-test.git <your-project-name>
 ```
 
 The `depth=1` tells git to only pull down one commit worth of historical data.
