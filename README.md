@@ -7,9 +7,9 @@ To get you started you can simply clone the `todo-angular-test` repository and i
 
 ### Prerequisites
 
-You need git to clone the `Emirates ToDo Test App` repository. You can get git from [here][git].
+You need git to clone the `todo-angular-test` repository. You can get git from [here][git].
 
-We also use a number of Node.js tools to initialize and test `Emirates ToDo Test App`. You must have Node.js
+We also use a number of Node.js tools to initialize and test `todo-angular-test`. You must have Node.js
 and its package manager (npm) installed. You can get them from [here][node].
 
 ### Clone `Emirates ToDo Test App`
