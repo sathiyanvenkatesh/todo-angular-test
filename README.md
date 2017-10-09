@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-To get you started you can simply clone the `Emirates ToDo Test App` repository and install the dependencies:
+To get you started you can simply clone the `todo-angular-test` repository and install the dependencies:
 
 ### Prerequisites
 
